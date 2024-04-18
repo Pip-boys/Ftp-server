@@ -1,0 +1,14 @@
+server:
+  port: 8112
+
+ftp:
+  username: wxf
+  password: 123456
+  rootDir: D:\subject
+  port: 2221
+  portList: 8782-8880
+  ip: 115.159.72.86
+
+logging:
+  level:
+    root: debug
